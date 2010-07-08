@@ -1,0 +1,3 @@
+mkdir pymatic
+touch pymatic/pymatic1
+echo "test" > pymatic/pymatic1

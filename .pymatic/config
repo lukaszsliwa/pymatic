@@ -1,0 +1,11 @@
+[main]
+name         = pymatic
+machines     = machine1
+local_backup = backup
+
+[machine machine1]
+user = crh
+password = erc00s
+host = 173.212.221.16
+remote_backup = backup
+
